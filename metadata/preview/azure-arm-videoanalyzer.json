@@ -1,7 +1,7 @@
 {
   "Name": "@azure/arm-videoanalyzer",
-  "Version": "1.0.0-beta.2",
-  "DevVersion": null,
+  "Version": "1.0.0-alpha.20220420.2",
+  "DevVersion": "1.0.0-alpha.20220428.1",
   "DirectoryPath": "sdk/videoanalyzer/arm-videoanalyzer",
   "ServiceDirectory": "videoanalyzer",
   "ReadMePath": "sdk/videoanalyzer/arm-videoanalyzer/README.md",
@@ -10,5 +10,5 @@
   "SdkType": "mgmt",
   "IsNewSdk": true,
   "ArtifactName": "azure-arm-videoanalyzer",
-  "ReleaseStatus": "2021-12-14"
+  "ReleaseStatus": "Unreleased"
 }
