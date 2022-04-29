@@ -1,0 +1,14 @@
+{
+  "Name": "@azure/arm-recoveryservicesbackup",
+  "Version": "8.1.0-alpha.20220420.2",
+  "DevVersion": "8.1.0-alpha.20220428.1",
+  "DirectoryPath": "sdk/recoveryservicesbackup/arm-recoveryservicesbackup",
+  "ServiceDirectory": "recoveryservicesbackup",
+  "ReadMePath": "sdk/recoveryservicesbackup/arm-recoveryservicesbackup/README.md",
+  "ChangeLogPath": "sdk/recoveryservicesbackup/arm-recoveryservicesbackup/CHANGELOG.md",
+  "Group": null,
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-arm-recoveryservicesbackup",
+  "ReleaseStatus": "2022-02-14"
+}
